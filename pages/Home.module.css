@@ -1,0 +1,10 @@
+.homediv {
+    margin: 0 auto;
+    height: 100vh;
+    border: 10px solid #00b321;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
